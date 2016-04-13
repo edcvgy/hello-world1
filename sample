@@ -1,3 +1,7 @@
 this is the sample file which is added through github explorer
 
+<<<<<<< HEAD
 edited from backend
+=======
+edited by github explorer
+>>>>>>> origin/master
